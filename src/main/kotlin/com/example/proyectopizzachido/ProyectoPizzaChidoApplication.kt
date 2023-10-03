@@ -9,3 +9,4 @@ class ProyectoPizzaChidoApplication
 fun main(args: Array<String>) {
 	runApplication<ProyectoPizzaChidoApplication>(*args)
 }
+
